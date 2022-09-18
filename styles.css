@@ -1,4 +1,31 @@
-
+body {
+  background-color: beige;
+  font-family: "Courier New", Courier, monospace;
+}
+h1 {
+  font-size: 40px;
+  margin: 0;
+  padding: 28px 0px;
+  color: #75705e;
+}
+h2 {
+  font-size: 120px;
+  padding: 18px 0px;
+  color: #323232;
+}
+h3 {
+  margin: 0;
+  font-size: 40px;
+  text-align: center;
+  color: #274c6d;
+}
+h4 {
+  font-size: 60px;
+  text-align: center;
+  margin: 0;
+  color: #274c6d;
+  font-weight: bold;
+}
 h5 {
   text-align: center;
   color: #75705e;
@@ -35,3 +62,4 @@ hr {
 .card-body {
   padding: 30px;
 }
+
